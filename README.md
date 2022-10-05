@@ -1,2 +1,2 @@
-# Forecasting---ARIMA-vs-CNN-LSTM
+# Forecasting with ARIMA and CNN-LSTM
 Multi-step time series forecasting with ARIMA and CNN-LSTM models
